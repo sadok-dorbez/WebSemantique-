@@ -1,0 +1,6 @@
+[submodule "Web_Semantique_Back"]
+	path = Web_Semantique_Back
+	url = https://github.com/sadok-dorbez/Web_Semantique_Back.git
+[submodule "Web_Semantique_Front"]
+	path = Web_Semantique_Front
+	url = https://github.com/sadok-dorbez/Web_Semantique_Front.git
